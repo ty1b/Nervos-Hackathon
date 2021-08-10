@@ -11,4 +11,4 @@ https://explorer.nervos.org/aggron/address/ckt1qyqwpaf7yrgysmwf306l0x7htlchq7j3l
 
 3 - Deposit to Layer 2
 
-![](Deposit.png)
+![](deposit.png)
